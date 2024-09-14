@@ -1,0 +1,2 @@
+# Spaghetti_Sort
+Spaghetti sort is a linear-time, analog algorithm for sorting a sequence of items, introduced by A. K. Dewdney in his Scientific American column. This algorithm sorts a sequence of items requiring O(n) stack space in a stable manner. It requires a parallel processor.
